@@ -1,6 +1,14 @@
 name: flutter_heic_to_jpg
 description: "A Flutter plugin for converting HEIC images to JPG format on Android and iOS devices. Easily integrate HEIC to JPG conversion into your Flutter apps with a simple API."
+repository: https://github.com/TalebRafiepour/flutter_heic_to_jpg.git
 version: 1.0.0
+
+topics: 
+  - heic
+  - heictojpg
+  - heicconversion
+  - imageconversion
+
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
@@ -8,7 +16,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  plugin_platform_interface: ^2.0.2
+  plugin_platform_interface: ^2.1.8
 
 dev_dependencies:
   flutter_test:

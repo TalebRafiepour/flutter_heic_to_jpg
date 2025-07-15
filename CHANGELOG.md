@@ -1,3 +1,3 @@
-## 0.0.1
-
-* TODO: Describe initial release.
+# 1.0.0
+- Refactored the entire project for improved structure and maintainability.
+- General updates and enhancements.
